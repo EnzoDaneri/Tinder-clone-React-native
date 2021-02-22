@@ -6,7 +6,9 @@
 
 ---
 
-## expo start
+`expo start`
+
+---
 
 ### External dependencies:
 
